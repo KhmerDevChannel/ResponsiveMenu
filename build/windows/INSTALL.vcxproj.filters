@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Development\Flutter\ProjectVideo\flutter_responsive_menu\build\windows\CMakeFiles\002e0f88dd05132eb7686e4a5bd44edf\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2E0E8880-D10E-3132-A025-DEB21BB5B2FC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

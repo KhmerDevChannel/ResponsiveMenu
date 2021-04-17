@@ -1,0 +1,2 @@
+D:\Development\Flutter\ProjectVideo\flutter_responsive_menu\build\windows\flutter\Debug\flutter_wrapper_plugin.pdb
+D:\Development\Flutter\ProjectVideo\flutter_responsive_menu\build\windows\flutter\flutter_wrapper_plugin.dir\Debug\flutter_wrapper_plugin.pdb
